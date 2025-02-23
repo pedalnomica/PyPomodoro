@@ -1,0 +1,5 @@
+Sound files attributions:
+
+start.wav by kirkpatrick.live -- https://freesound.org/s/495358/ -- License: Attribution 4.0
+end.wav by Neotone -- https://freesound.org/s/75336/ -- License: Creative Commons 0
+final.wav by schafferdavid -- https://freesound.org/s/198320/ -- License: Creative Commons 0
